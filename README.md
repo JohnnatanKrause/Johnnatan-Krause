@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Johnnatan Krause!!
-- 👀 Estou interessado em aprender programar e ser um programdor Full Stake.
+- 👀 Estou interessado em aprender programar e ser um programdor Full Stack.
 - 🌱 Atualmente estou aprendendo HTML5, CSS, Javascript, Python, Mapperidea.
 - 😄 Estou procurando colaborar em pequenos projetos abertos para poder me desenvolver.
 - 📫 Abaixo um pequeno resumo sobre mim:
