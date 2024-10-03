@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnnatankrause&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnnatankrause&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&exclude=PHP)
 
 ## Bibliotecas e Frameworks
 
@@ -48,7 +48,7 @@
 
 ## Meu Primeiro Código
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://johnnatankrause.github.io/Portif-lio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://johnnatankrause.github.io/Portifolio/)
 
 ## GitHub Status
 
@@ -56,7 +56,7 @@
 
 ## Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Portif-lio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/Portfi-lio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/Portfiolio)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=JohnnatanKrause&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/johnnatankrause)
 
