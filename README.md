@@ -29,7 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnnatankrause&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&exclude=PHP)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnnatankrause&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=PHP)
 
 ## Bibliotecas e Frameworks
 
