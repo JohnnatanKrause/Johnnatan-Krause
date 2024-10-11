@@ -60,4 +60,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/dio-lab-open-source)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Desafio-DIO-Sistema-Bancario-com-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/Desafio-DIO-Sistema-Bancario-com-Python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=trilha-python-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/trilha-python-dio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Desafio-01-DIO-Sistema-Bancario-com-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/Desafio-01-DIO-Sistema-Bancario-com-Python)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Desafio-02-DIO-Sistema-Bancario-com-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/Desafio-02-DIO-Sistema-Bancario-com-Python)
