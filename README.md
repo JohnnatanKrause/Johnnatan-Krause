@@ -71,4 +71,9 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Desafio-04-DIO-Criando-um-Pacote-de-Processamento-de-Imagens-com-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/johnnatankrause/Desafio-04-DIO-Criando-um-Pacote-de-Processamento-de-Imagens-com-Python)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=power_bi_analyst&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JohnnatanKrause/power_bi_analyst)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnatankrause&repo=Desafio-05-DIO-Analisando-dados-Com-Power-BI&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JohnnatanKrause/Desafio-05-DIO-Analisando-dados-Com-Power-BI)
+
+
 
